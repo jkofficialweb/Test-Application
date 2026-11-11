@@ -1,0 +1,6 @@
+{
+  "name": "The Khyber Chinar - Luxury Himalayan Resort & Spa, Kashmir",
+  "description": "Experience unrivaled alpine luxury in Kashmir nestled amidst the snow-capped Pir Panjal peaks. Featuring panoramic mountain-view suites, artisanal Kashmiri dining, and seamless online booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
